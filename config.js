@@ -1,0 +1,1 @@
+var G_API_GATEWAY_URL_STR = https://hwu3v6cv3e.execute-api.us-east-1.amazonaws.com/test
